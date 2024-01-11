@@ -1,0 +1,12 @@
+com.example.calisma_yapisi.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Ozcan\.gradle\caches\transforms-3\3740bc74f3ccb1b2ca0494eaf0684c87\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.calisma_yapisi.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Ozcan\.gradle\caches\transforms-3\6a9a01ea7229bccb3ed1811cf95cb8b2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.calisma_yapisi.app-core-1.6.0-2 C:\Users\Ozcan\.gradle\caches\transforms-3\87e24ee8689e985fbc596f6976aab002\transformed\core-1.6.0\res
+com.example.calisma_yapisi.app-jetified-window-1.0.0-beta04-3 C:\Users\Ozcan\.gradle\caches\transforms-3\be87ff3b58bc171252b4850a1dd29885\transformed\jetified-window-1.0.0-beta04\res
+com.example.calisma_yapisi.app-debug-4 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\android\app\src\debug\res
+com.example.calisma_yapisi.app-main-5 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\android\app\src\main\res
+com.example.calisma_yapisi.app-pngs-6 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\build\app\generated\res\pngs\debug
+com.example.calisma_yapisi.app-resValues-7 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\build\app\generated\res\resValues\debug
+com.example.calisma_yapisi.app-rs-8 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\build\app\generated\res\rs\debug
+com.example.calisma_yapisi.app-mergeDebugResources-9 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.calisma_yapisi.app-mergeDebugResources-10 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.calisma_yapisi.app-merged_res-11 C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\build\app\intermediates\merged_res\debug
