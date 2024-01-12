@@ -19,6 +19,7 @@ class _ButtonNavigationBarState extends State<ButtonNavigationBar> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.deepOrange,
         title: Text("ButtonNavigationBar"),
       ),
       body: Sayfalar[secilenIndex],
@@ -32,6 +33,9 @@ class _ButtonNavigationBarState extends State<ButtonNavigationBar> {
               icon: Icon(Icons.looks_3_outlined), label: "Üç")
         ],
         currentIndex: secilenIndex,
+        backgroundColor: Colors.deepOrange,
+        selectedItemColor: Colors.blue,
+        unselectedItemColor: Colors.black,
         onTap: (indeks) {
           setState(() {
             secilenIndex = indeks;
