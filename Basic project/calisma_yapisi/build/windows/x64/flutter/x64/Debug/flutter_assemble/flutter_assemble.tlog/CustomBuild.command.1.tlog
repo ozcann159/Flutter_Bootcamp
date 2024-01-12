@@ -1,0 +1,28 @@
+^C:\USERS\OZCAN\FLUTTER BOOTCAMP\BASIC PROJECT\CALISMA_YAPISI\BUILD\WINDOWS\X64\CMAKEFILES\2427963C4342DE82578E398ACF4BE118\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi" "FLUTTER_TARGET=C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8zZjNlNTYwMjM2NTM5YjdlMjcwMmY1YWM3OTBiMmE0NjkxYjMyZDQ5Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Ozcan\Flutter Bootcamp\Basic project\calisma_yapisi\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\OZCAN\FLUTTER BOOTCAMP\BASIC PROJECT\CALISMA_YAPISI\BUILD\WINDOWS\X64\CMAKEFILES\B77B8C319771DEF14DB5A249A9A5889E\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\OZCAN\FLUTTER BOOTCAMP\BASIC PROJECT\CALISMA_YAPISI\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Ozcan/Flutter Bootcamp/Basic project/calisma_yapisi/windows" "-BC:/Users/Ozcan/Flutter Bootcamp/Basic project/calisma_yapisi/build/windows/x64" --check-stamp-file "C:/Users/Ozcan/Flutter Bootcamp/Basic project/calisma_yapisi/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

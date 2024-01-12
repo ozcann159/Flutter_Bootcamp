@@ -1,4 +1,4 @@
-#Fri Jan 12 01:03:51 TRT 2024
+#Fri Jan 12 14:12:03 TRT 2024
 base.0=C\:\\Users\\Ozcan\\Flutter Bootcamp\\Basic project\\calisma_yapisi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

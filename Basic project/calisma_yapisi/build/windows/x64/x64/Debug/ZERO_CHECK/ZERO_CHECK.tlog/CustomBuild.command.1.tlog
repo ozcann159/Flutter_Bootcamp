@@ -1,0 +1,10 @@
+^C:\USERS\OZCAN\FLUTTER BOOTCAMP\BASIC PROJECT\CALISMA_YAPISI\BUILD\WINDOWS\X64\CMAKEFILES\A7F4CA6D975745C85FB5834B01F0F7F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Ozcan/Flutter Bootcamp/Basic project/calisma_yapisi/windows" "-BC:/Users/Ozcan/Flutter Bootcamp/Basic project/calisma_yapisi/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Ozcan/Flutter Bootcamp/Basic project/calisma_yapisi/build/windows/x64/calisma_yapisi.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

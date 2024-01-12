@@ -1,0 +1,10 @@
+^C:\USERS\OZCAN\FLUTTER BOOTCAMP\BASIC PROJECT\CALISMA_YAPISI\BUILD\WINDOWS\X64\CMAKEFILES\A7F4CA6D975745C85FB5834B01F0F7F1\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
